@@ -1,2 +1,2 @@
-# Russian translation for MailWizz EMA (1.3.8.6)
+# Russian translation for MailWizz EMA (1.4.3)
 Install this as an extension.
